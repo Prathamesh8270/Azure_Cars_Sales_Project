@@ -1,7 +1,3 @@
-Here's a **README.md** file for your GitHub repository:  
-
----
-
 # 🚀 End-to-End Data Engineering Pipeline on Azure  
 
 This project demonstrates an **end-to-end data engineering workflow** using **Azure Data Factory, Azure Databricks, and Delta Lake** to process, transform, and structure data for analytics.  
